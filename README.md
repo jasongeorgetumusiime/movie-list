@@ -1,2 +1,2 @@
-# movie-list
-React Application to list Movies
+## Movie List
+A simple React Apllication to list details as cards
